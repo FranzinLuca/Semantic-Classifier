@@ -1,3 +1,9 @@
+<iframe src="mydocument.pdf" width="100%" height="600px">
+    <p>Your browser does not support iframes. You can <a href="mydocument.pdf">download the PDF here</a>.</p>
+</iframe>
+
+# Instructions
+
 ----------------------------------------------------------------------------
 
 TO LOAD THE DATABASE IN GOOGLE COLLAB

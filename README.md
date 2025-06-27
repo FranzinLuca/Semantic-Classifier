@@ -81,23 +81,21 @@ Despite their different approaches, both models achieved remarkably similar perf
 
 ---
 
-## Repository Structure
+## Repository Structure\
 
-
-.
-├── datasets_expanded/  # Contains the processed datasets for each model
-│   ├── all_properties.csv      # Data for Model 1 (Wikidata pairs)
-│   ├── summary.csv             # Data for Model 2 (Wikipedia summaries)
-│   └── ...                     # Train, validation, and test splits
-├── scripts/              # Helper Python scripts for data processing and modeling
-│   ├── dataloader.py         # Custom PyTorch data loaders
-│   ├── modify_dataset.py     # Scripts to process raw data and enrich it
-│   ├── my_model.py           # Model definitions
-│   └── utils.py              # Utility functions
-├── FinalReport.pdf       # The detailed project report
-├── model_1.ipynb         # Jupyter Notebook for training and evaluating the Traditional ML model
-├── model_2.ipynb         # Jupyter Notebook for training and evaluating the Transformer model
-└── README.md             # This file
+├── datasets_expanded/  # Contains the processed datasets for each model\
+│   ├── all_properties.csv      # Data for Model 1 (Wikidata pairs)\
+│   ├── summary.csv             # Data for Model 2 (Wikipedia summaries)\
+│   └── ...                     # Train, validation, and test splits\
+├── scripts/              # Helper Python scripts for data processing and modeling\
+│   ├── dataloader.py         # Custom PyTorch data loaders\
+│   ├── modify_dataset.py     # Scripts to process raw data and enrich it\
+│   ├── my_model.py           # Model definitions\
+│   └── utils.py              # Utility functions\
+├── FinalReport.pdf       # The detailed project report\
+├── model_1.ipynb         # Jupyter Notebook for training and evaluating the Traditional ML model\
+├── model_2.ipynb         # Jupyter Notebook for training and evaluating the Transformer model\
+└── README.md             # This file\
 
 
 ---

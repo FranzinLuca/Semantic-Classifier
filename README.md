@@ -1,9 +1,5 @@
 # Semantic Classifier for Cultural Representation
 
-![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
-![Frameworks](https://img.shields.io/badge/frameworks-PyTorch%2C%20HuggingFace%2C%20Optuna-orange)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
 This repository contains the implementation of two distinct machine learning models designed to classify concepts based on their cultural representation. The goal is to determine whether a concept is **Cultural Agnostic**, **Cultural Representative**, or **Cultural Exclusive**.
 
 This project was developed by **Francesco Casacchia** and **Luca Franzin**.
